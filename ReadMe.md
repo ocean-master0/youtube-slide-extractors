@@ -28,7 +28,7 @@
 ## 📸 Screenshots
 
 
-![Single Video Mode](assets/images/single Mode](assets/images/batch-mode.png](assets/images/extracted-slides.png
+![Screenshot 1](https://github.com/ocean-master0/youtube-slide-extractors/blob/main/screenshort/Screenshot%202025-04-20%20114949.png?raw=true)
 
 - Python 3.7 or higher
 - Tesseract OCR Engine (for text extraction)
